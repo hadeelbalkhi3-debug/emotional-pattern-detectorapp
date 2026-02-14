@@ -1,0 +1,1 @@
+# emotional-pattern-detectorapp
